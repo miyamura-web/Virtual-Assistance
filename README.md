@@ -13,7 +13,7 @@ Goyank is a desktop-based AI voice assistant built with Python, using `Tkinter` 
 - 🧮 Launches apps like VS Code, SQL Server, Power BI, Excel, etc.
 - 📁 Opens local files or folders by name
 - 🕒 Tells current time and date
-- 😄 Handles fun small talk 
+- 😄 Handles fun small talk (jokes, greetings, compliments)
 
 -------------------------------------------------------------------------------------------------
 
