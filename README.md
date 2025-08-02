@@ -24,7 +24,7 @@ Goyank is a desktop-based AI voice assistant built with Python, using `Tkinter` 
 - PyWhatKit (YouTube)
 - Webbrowser (browser control)
 - Win32com (Text-to-Speech)
-- PIL 
+- PIL (for background image)
 - Wikipedia API
 
 -------------------------------------------------------------------------------------------------
